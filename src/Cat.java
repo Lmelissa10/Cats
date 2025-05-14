@@ -11,7 +11,7 @@ class Cat {
 >>>>>>> 68f5dbdbd42f5a0ca6d47df98f9726fea69ab408
 
     // Constructor
-    public Cat(String name, int age, String breed,String personality) {
+    public Cat(String name, int age, String breed,String personality, String gender) {
         this.name = name;
         this.age = age;
         this.breed = breed;
