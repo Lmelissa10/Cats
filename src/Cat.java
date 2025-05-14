@@ -55,7 +55,7 @@ class Cat {
         System.out.println("Gender: " + gender);
         System.out.println("Size: " + size);
 
-        System.out.println("Gender: " + genders);
+//        System.out.println("Gender: " + genders);
         System.out.println("Cat: " + cat);
 
 
